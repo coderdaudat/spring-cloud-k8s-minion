@@ -1,4 +1,4 @@
-package org.spring.cloud.k8s.examples.minion;
+package org.minions.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
